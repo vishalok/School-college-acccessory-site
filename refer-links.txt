@@ -1,0 +1,7 @@
+reference links
+
+css
+
+1.menu.css-> https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css
+2.menu.js-> https://kit.fontawesome.com/a076d05399.js
+3.js/flickity.js-> https://codepen.io/desandro/pen/XKeXyv->Slide show 
